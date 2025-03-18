@@ -10,3 +10,4 @@ git push carga los cambios al repo
 deactivate desactivar el entorno virtual 
  git branch dev_cce crear nueva rama
  git checkout dev_cce cambiar entre ramas-restaurar archivos
+ caca
