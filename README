@@ -1,2 +1,12 @@
-# 5IS-KJM
-5IS Kevin jhoan murillo
+ls verificamos el contenido de la carpeta 
+cd nombre de la carpeta ingresa la carpeta
+cd.. devuelve a la anterior carpeta
+pwd la ruta completa de la carpeta
+git clone pegar la ruta del github 
+git add . carga a la carpeta
+git status muestra el estado
+git commit -m "first commit" confirma los cambios guardados
+git push carga los cambios al repo
+deactivate desactivar el entorno virtual 
+ git branch dev_cce crear nueva rama
+ git checkout dev_cce cambiar entre ramas-restaurar archivos
